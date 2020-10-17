@@ -1,2 +1,2 @@
 //Gör ett tomt objekt"
-const objectname = {}
+const objectName = {}
